@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Andrew Koman's Resume
 description: This is a Work In Progress, so check back for additions!
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
