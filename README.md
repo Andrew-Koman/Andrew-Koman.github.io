@@ -2,4 +2,4 @@
 
 ## Resume Website
 
-[Resume](https://andrew-koman.github.io/)
+[Website](https://andrew-koman.github.io/)
